@@ -91,10 +91,6 @@ The vector store used to store all embeddings and metadata is **Deeplake**. It i
 
 Once the pipeline is set up, the query can be done. To the question `Which are the main characters of the book?` the following output with the **score** and the top N node from where the information was retrieved.
 
-<p align="center">
-<img width="563" alt="Screen Shot 2024-01-05 at 9 05 56 AM" src="https://github.com/benitomartin/benitomartin/assets/116911431/8476121d-b265-4c53-908c-a7c9921baff2">
-</p>
-
 The **score** represents the relevance or similarity measure between the query and the retrieved document. This score indicates the likelihood or degree to which the document is considered relevant to the query based on the model's understanding or learned representation of the text.
 
 For instance:
