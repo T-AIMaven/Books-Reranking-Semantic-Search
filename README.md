@@ -109,9 +109,6 @@ After the questions are generated, the model was evaluated in chunk. The metrics
 - **Faithfulness** evaluates the integrity of the answer, it faithfully represents the information in the retrieved context (the response from a query engine matches any source nodes) or, in other words, whether there’s a hallucination.
 
 Both metrics evaluate from 0 to 1, the higher the better. The result for the top_k 4 can be seen in the following image.
-<p align="center">
-<img width="470" alt="Screen Shot 2024-01-05 at 9 05 56 AM" src="https://github.com/benitomartin/benitomartin/assets/116911431/36ad50e5-c3fb-42a2-aaed-53193dbad8eb">
-</p>
 
 ## 📈 Further Steps
 
